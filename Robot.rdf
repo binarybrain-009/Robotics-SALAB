@@ -1,0 +1,1330 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <rdf:Description rdf:about="urn:isbn:978-1-66546-946-3">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-66546-946-3</dc:identifier>
+                <dc:title>2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</dc:title>
+                <dc:identifier>DOI 10.1109/CVPR52688.2022.02042</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>New Orleans, LA, USA</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sener</foaf:surname>
+                        <foaf:givenName>Fadime</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chatterjee</foaf:surname>
+                        <foaf:givenName>Dibyadip</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shelepov</foaf:surname>
+                        <foaf:givenName>Daniel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>He</foaf:surname>
+                        <foaf:givenName>Kun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Singhania</foaf:surname>
+                        <foaf:givenName>Dipika</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Robert</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yao</foaf:surname>
+                        <foaf:givenName>Angela</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_8"/>
+        <dc:title>Assembly101: A Large-Scale Multi-View Video Dataset for Understanding Procedural Activities</dc:title>
+        <dcterms:abstract>Assembly101 is a new procedural activity dataset featuring 4321 videos of people assembling and disassembling 101 “take-apart” toy vehicles. Participants work without fixed instructions, and the sequences feature rich and natural variations in action ordering, mistakes, and corrections. Assembly101 is the first multi-view action dataset, with simultaneous static (8) and egocentric (4) recordings. Sequences are annotated with more than 100K coarse and 1M fine-grained action segments, and 18M 3D hand poses.</dcterms:abstract>
+        <dc:date>6/2022</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Assembly101</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/document/9878834/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-09-20 02:00:13</dcterms:dateSubmitted>
+        <dc:rights>https://doi.org/10.15223/policy-029</dc:rights>
+        <bib:pages>21064-21074</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_8">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/2203.14712</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-09-20 02:00:10</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://ieeexplore.ieee.org/document/10076424/?arnumber=10076424">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2169-3536"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Chen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chrysostomou</foaf:surname>
+                        <foaf:givenName>Dimitrios</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Xiaochun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yang</foaf:surname>
+                        <foaf:givenName>Hongji</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_18"/>
+        <link:link rdf:resource="#item_17"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>data annotation</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Data collection</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>dialogue systems</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>human-robot interaction</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Human-robot interaction</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Manufacturing</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Robot kinematics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Robots</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Service robots</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Task analysis</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Training</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>virtual assistants</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>IRWoZ: Constructing an Industrial Robot Wizard-of-OZ Dialoguing Dataset</dc:title>
+        <dcterms:abstract>Enabling a flexible and natural human-robot interaction (HRI) for industrial robots is a critical yet challenging task that can be facilitated by the use of conversational artificial intelligence (AI). Prior research has concentrated on strengthening interactions through the deployment of social robots, while disregarding the capabilities required to boost the flexibility and user experience associated with human-robot collaboration (HRC) on manufacturing tasks. One of the main challenges is the lack of publicly available industrial-oriented dialogue datasets for the training of conversational AI. In this work, we present an Industrial Robot Wizard-of-Oz Dialoguing Dataset (IRWoZ) focused on enabling HRC in manufacturing tasks. The dataset covers four domains: assembly, transportation, position, and relocation. It is created using the Wizard-of-Oz technique to be less noisy. We manually constructed, annotated and validated dialogue segments (e.g., intentions, slots, annotations), as well as the responses. Building upon the proposed dataset, we benchmark it on the state-of-the-art (SoTA) language models, generative pre-trained (GPT-2) models, on dialogue state tracking and response generation tasks. We expect that the IRWoZ dataset will facilitate exciting ongoing dialogue research and we provide it freely accessible at https://github.com/lcroy/ToD4IR/tree/main/dataset.</dcterms:abstract>
+        <dc:date>2023</dc:date>
+        <z:shortTitle>IRWoZ</z:shortTitle>
+        <z:libraryCatalog>IEEE Xplore</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/document/10076424/?arnumber=10076424</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-09-20 04:47:09</dcterms:dateSubmitted>
+        <dc:description>Conference Name: IEEE Access</dc:description>
+        <bib:pages>28236-28251</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2169-3536">
+        <prism:volume>11</prism:volume>
+        <dc:title>IEEE Access</dc:title>
+        <dc:identifier>DOI 10.1109/ACCESS.2023.3259325</dc:identifier>
+        <dc:identifier>ISSN 2169-3536</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_18">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>IEEE Xplore Abstract Record</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/document/10076424/?arnumber=10076424</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-09-20 04:47:17</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_17">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>IEEE Xplore Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/ielx7/6287639/10005208/10076424.pdf?tp=&amp;arnumber=10076424&amp;isnumber=10005208&amp;ref=</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-09-20 04:47:11</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://projects.preferred.jp/interactive-robot/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+            <z:Website>
+                <dc:title>Interactively Picking Real-World Objects with Unconstrained Spoken Language Instructions</dc:title>
+            </z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_21"/>
+        <dc:title>Interactively Picking Real-World Objects with Unconstrained Spoken Language Instructions</dc:title>
+        <dcterms:abstract>At Preferred Networks, we are applying the latest speech and natural language processing technologies as means of communication between humans and robots.</dcterms:abstract>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://projects.preferred.jp/interactive-robot/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-09-20 05:03:59</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_21">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://projects.preferred.jp/interactive-robot/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-09-20 05:04:03</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0736584523001618">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0736-5845"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lee</foaf:surname>
+                        <foaf:givenName>Regina Kyung-Jin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zheng</foaf:surname>
+                        <foaf:givenName>Hao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lu</foaf:surname>
+                        <foaf:givenName>Yuqian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_46"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Human-centric manufacturing</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Human-robot collaboration</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Human-robot knowledge transfer</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Taxonomy</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Unified assembly process representation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Human-Robot Shared Assembly Taxonomy: A step toward seamless human-robot knowledge transfer</dc:title>
+        <dcterms:abstract>Future manufacturing will witness a shift in human-robot relationships toward collaboration, compassion, and coevolution. This will require seamless human-robot knowledge transfer. Differences in language and knowledge representation hinder the transfer of knowledge between humans and robots. Thus, a unified knowledge representation system that can be shared by humans and robots is essential. Driven by this need in a product assembly scenario, we propose the Human-Robot Shared Assembly Taxonomy (HR-SAT). With HR-SAT, any comprehensive assembly task can be represented as a knowledge graph that both humans and robots can understand. To ensure consistency in task decomposition and representation, we define the key elements of HR-SAT. HR-SAT incorporates rich assembly information and provides necessary information for diverse applications, e.g., process planning, quality checking, and human-robot collaboration. The usage and practicality of HR-SAT are demonstrated through two case studies. As a unified assembly process representation schema, HR-SAT constitutes a critical step toward seamless human-robot knowledge transfer. The specifications of HR-SAT and the two case studies are available at: https://iai-hrc.github.io/hr-sat.</dcterms:abstract>
+        <dc:date>2024-04-01</dc:date>
+        <z:shortTitle>Human-Robot Shared Assembly Taxonomy</z:shortTitle>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0736584523001618</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-09-27 05:24:14</dcterms:dateSubmitted>
+        <bib:pages>102686</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0736-5845">
+        <prism:volume>86</prism:volume>
+        <dc:title>Robotics and Computer-Integrated Manufacturing</dc:title>
+        <dc:identifier>DOI 10.1016/j.rcim.2023.102686</dc:identifier>
+        <dcterms:alternative>Robotics and Computer-Integrated Manufacturing</dcterms:alternative>
+        <dc:identifier>ISSN 0736-5845</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_46">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0736584523001618</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-09-27 05:24:21</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://iai-hrc.github.io/hr-sat">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_48"/>
+        <dc:title>HR-SAT: Human-Robot Shared Assembly Taxonomy - IAI-HRC</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://iai-hrc.github.io/hr-sat</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-09-27 05:28:22</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_48">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>HR-SAT: Human-Robot Shared Assembly Taxonomy - IAI-HRC</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://iai-hrc.github.io/hr-sat</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-09-27 05:28:31</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="http://arxiv.org/abs/2011.06431">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>arXiv</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Murali</foaf:surname>
+                        <foaf:givenName>Adithyavairavan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Weiyu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Marino</foaf:surname>
+                        <foaf:givenName>Kenneth</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chernova</foaf:surname>
+                        <foaf:givenName>Sonia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gupta</foaf:surname>
+                        <foaf:givenName>Abhinav</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_58"/>
+        <link:link rdf:resource="#item_59"/>
+        <link:link rdf:resource="#item_60"/>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Computer Science - Computer Vision and Pattern Recognition</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Robotics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Same Object, Different Grasps: Data and Semantic Knowledge for Task-Oriented Grasping</dc:title>
+        <dcterms:abstract>Despite the enormous progress and generalization in robotic grasping in recent years, existing methods have yet to scale and generalize task-oriented grasping to the same extent. This is largely due to the scale of the datasets both in terms of the number of objects and tasks studied. We address these concerns with the TaskGrasp dataset which is more diverse both in terms of objects and tasks, and an order of magnitude larger than previous datasets. The dataset contains 250K task-oriented grasps for 56 tasks and 191 objects along with their RGB-D information. We take advantage of this new breadth and diversity in the data and present the GCNGrasp framework which uses the semantic knowledge of objects and tasks encoded in a knowledge graph to generalize to new object instances, classes and even new tasks. Our framework shows a significant improvement of around 12% on held-out settings compared to baseline methods which do not use semantics. We demonstrate that our dataset and model are applicable for the real world by executing task-oriented grasps on a real robot on unknown objects. Code, data and supplementary video could be found at https://sites.google.com/view/taskgrasp</dcterms:abstract>
+        <dc:date>2020-11-13</dc:date>
+        <z:shortTitle>Same Object, Different Grasps</z:shortTitle>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2011.06431</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-09-27 06:43:58</dcterms:dateSubmitted>
+        <dc:description>arXiv:2011.06431 [cs]</dc:description>
+        <dc:identifier>DOI 10.48550/arXiv.2011.06431</dc:identifier>
+        <prism:number>arXiv:2011.06431</prism:number>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_58">
+        <rdf:value>Comment: Accepted to Conference on Robot Learning (CoRL) 2020</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_59">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/2011.06431.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-09-27 06:44:00</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_60">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2011.06431</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-09-27 06:44:05</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://arxiv.org/html/2406.10199v1">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_131"/>
+        <dc:title>Inverse Risk-sensitive Multi-Robot Task Allocation</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/html/2406.10199v1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-11-23 08:13:09</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_131">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Inverse Risk-sensitive Multi-Robot Task Allocation</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/html/2406.10199v1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-11-23 08:13:15</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://ieeexplore.ieee.org/document/10506342/?arnumber=10506342">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1558-3783"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kang</foaf:surname>
+                        <foaf:givenName>Woosuk</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jeong</foaf:surname>
+                        <foaf:givenName>EunJin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shim</foaf:surname>
+                        <foaf:givenName>Sungjun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ha</foaf:surname>
+                        <foaf:givenName>Soonhoi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_134"/>
+        <link:link rdf:resource="#item_133"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Dynamic scheduling</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>optimization</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Resource management</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Robots</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>robustness</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Robustness</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Space exploration</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Swarm robotics</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>task allocation</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Task analysis</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Optimization of Task Allocation for Resource-Constrained Swarm Robots</dc:title>
+        <dcterms:abstract>While task allocation of swarm robots has been extensively researched, resource constraints of robots are rarely considered. In this work, we propose two novel task allocation methods robust to robot failures while considering the resource constraint, limited communication range, and deadline constraint of tasks. The first method, STA (static task allocation) method, finds an optimal task allocation solution at compile-time in terms of the minimum expected finish time, using answer set programming. On the other hand, the DTA (dynamic task allocation) method determines the task candidates for each robot at compile-time considering the resource constraint. It lets each robot select a task autonomously at run-time iteratively by exchanging the task allocation information with its neighbor robots. We assess the efficacy of our methods across three distinct environments: a numerical simulation, a swarm robotics simulation, and real robots. Experimental results show that the proposed methods can effectively tolerate robot failures, and the DTA method is superior to the STA method as the probability of robot failure increases. However, the STA method also exhibits consistent performance and superiority when faced with limitations in inter-robot communication. Additionally, we validate the feasibility of our method in a real-world context by conducting experiments with actual robots. Note to Practitioners—The motivation of this work is to explore how to allocate tasks efficiently to swarm robots to ensure timely completion despite occasional robot failures. In search-and-rescue scenarios, such as in the aftermath of a disaster, the effective use of swarm robots is vital, and the time taken to search is crucial to rescuing individuals within a critical time. Various approaches have been proposed to tackle this problem, taking into account time constraints. However, few studies have considered the impact of hardware constraints on robots. To address this issue, this paper proposes two new strategies to find an optimal allocation: the Static Task Allocation (STA) method and the Dynamic Task Allocation (DTA) method. Our methods are evaluated both on real robots and in simulation environments, demonstrating their suitability for practical application.</dcterms:abstract>
+        <dc:date>2024</dc:date>
+        <z:libraryCatalog>IEEE Xplore</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/document/10506342/?arnumber=10506342</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-11-23 08:16:48</dcterms:dateSubmitted>
+        <dc:description>Conference Name: IEEE Transactions on Automation Science and Engineering</dc:description>
+        <bib:pages>1-18</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1558-3783">
+        <dc:title>IEEE Transactions on Automation Science and Engineering</dc:title>
+        <dc:identifier>DOI 10.1109/TASE.2024.3389013</dc:identifier>
+        <dc:identifier>ISSN 1558-3783</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_134">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&amp;arnumber=10506342&amp;ref=</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-11-23 08:16:56</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_133">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>IEEE Xplore Abstract Record</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/document/10506342/?arnumber=10506342</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-11-23 08:16:55</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1007/s10846-018-0783-y">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1573-0409"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dai</foaf:surname>
+                        <foaf:givenName>Wei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lu</foaf:surname>
+                        <foaf:givenName>Huimin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xiao</foaf:surname>
+                        <foaf:givenName>Junhao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zheng</foaf:surname>
+                        <foaf:givenName>Zhiqiang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_136"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Incomplete information game</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Soccer robots</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Task allocation</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Without communication</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Task Allocation Without Communication Based on Incomplete Information Game Theory for Multi-robot Systems</dc:title>
+        <dcterms:abstract>In the task allocation of multi-robot system, the communication is an important condition to ensure global consistency. Unfortunately, with the popularity of WLAN, the congestion and interference among the bands are particularly severe, making traditional task allocation methods which rely on communication can not work. In this paper, the task allocation without communication is considered to be an incomplete information game, where game theory is employed to realize the task allocation and cooperation of soccer robots. Firstly, the joint probability distribution of the robot type is established according to the distance information, which can be employed to solve the incomplete information static game. Then the ball velocity information is added to modify the joint probability distribution and the incomplete information dynamic game can be solved in the same way. The experimental results show that the success rate of task allocation without communication can be improved effectively using the proposed method.</dcterms:abstract>
+        <dc:date>2019-06-01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Springer Link</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1007/s10846-018-0783-y</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-11-23 08:18:57</dcterms:dateSubmitted>
+        <bib:pages>841-856</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1573-0409">
+        <prism:volume>94</prism:volume>
+        <dc:title>Journal of Intelligent &amp; Robotic Systems</dc:title>
+        <dc:identifier>DOI 10.1007/s10846-018-0783-y</dc:identifier>
+        <prism:number>3</prism:number>
+        <dcterms:alternative>J Intell Robot Syst</dcterms:alternative>
+        <dc:identifier>ISSN 1573-0409</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_136">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/content/pdf/10.1007%2Fs10846-018-0783-y.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-11-23 08:18:59</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_138">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Choudhury</foaf:surname>
+                        <foaf:givenName>Shushman</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gupta</foaf:surname>
+                        <foaf:givenName>Jayesh K</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kochenderfer</foaf:surname>
+                        <foaf:givenName>Mykel J</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sadigh</foaf:surname>
+                        <foaf:givenName>Dorsa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bohg</foaf:surname>
+                        <foaf:givenName>Jeannette</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_137"/>
+        <dc:title>Dynamic Multi-Robot Task Allocation under Uncertainty and Temporal Constraints</dc:title>
+        <dcterms:abstract>We consider the problem of dynamically allocating tasks to multiple agents under time window constraints and task completion uncertainty. Our objective is to minimize the number of unsuccessful tasks at the end of the operation horizon. We present a multi-robot allocation algorithm that decouples the key computational challenges of sequential decision-making under uncertainty and multi-agent coordination and addresses them in a hierarchical manner. The lower layer computes policies for individual agents using dynamic programming with tree search, and the upper layer resolves conﬂicts in individual plans to obtain a valid multi-agent allocation. Our algorithm, Stochastic Conﬂict-Based Allocation (SCoBA), is optimal in expectation and complete under some reasonable assumptions. In practice, SCoBA is computationally efﬁcient enough to interleave planning and execution online. On the metric of successful task completion, SCoBA consistently outperforms a number of baseline methods and shows strong competitive performance against an oracle with complete lookahead. It also scales well with the number of tasks and agents. We validate our results over a wide range of simulations on two distinct domains: multi-arm conveyor belt pick-and-place and multi-drone delivery dispatch in a city.</dcterms:abstract>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_137">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.roboticsproceedings.org/rss16/p068.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-11-23 08:20:03</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-1-5386-8094-0">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-5386-8094-0</dc:identifier>
+                <dc:title>2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</dc:title>
+                <dc:identifier>DOI 10.1109/IROS.2018.8594404</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Madrid</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Faruq</foaf:surname>
+                        <foaf:givenName>Fatma</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Parker</foaf:surname>
+                        <foaf:givenName>David</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Laccrda</foaf:surname>
+                        <foaf:givenName>Bruno</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hawes</foaf:surname>
+                        <foaf:givenName>Nick</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_139"/>
+        <dc:title>Simultaneous Task Allocation and Planning Under Uncertainty</dc:title>
+        <dcterms:abstract>We propose novel techniques for task allocation and planning in multi-robot systems operating in uncertain environments. Task allocation is performed simultaneously with planning, which provides more detailed information about individual robot behaviour, but also exploits independence between tasks to do so efﬁciently. We use Markov decision processes to model robot behaviour and linear temporal logic to specify tasks and safety constraints. Building upon techniques and tools from formal veriﬁcation, we show how to generate a sequence of multi-robot policies, iteratively reﬁning them to reallocate tasks if individual robots fail, and providing probabilistic guarantees on the performance (and safe operation) of the team of robots under the resulting policy. We implement our approach and evaluate it on a benchmark multi-robot example.</dcterms:abstract>
+        <dc:date>10/2018</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/document/8594404/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-11-23 08:20:33</dcterms:dateSubmitted>
+        <bib:pages>3559-3564</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_139">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.prismmodelchecker.org/papers/iros18stapu.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-11-23 08:20:31</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1007/s43154-022-00087-4">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2662-4087"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aziz</foaf:surname>
+                        <foaf:givenName>Haris</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pal</foaf:surname>
+                        <foaf:givenName>Arindam</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pourmiri</foaf:surname>
+                        <foaf:givenName>Ali</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ramezani</foaf:surname>
+                        <foaf:givenName>Fahimeh</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sims</foaf:surname>
+                        <foaf:givenName>Brendan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_142"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Allocation under constraints</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Robot coalition</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Routing problems</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Task allocation</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Team formation</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Task Allocation Using a Team of Robots</dc:title>
+        <dcterms:abstract>Task allocation using a team or coalition of robots is one of the most important problems in robotics, computer science, operational research, and artificial intelligence. We present a survey of multi-robot task allocation covering many problem variants and solution approaches, both centralized and decentralized.</dcterms:abstract>
+        <dc:date>2022-12-01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Springer Link</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1007/s43154-022-00087-4</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-11-23 08:21:12</dcterms:dateSubmitted>
+        <bib:pages>227-238</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2662-4087">
+        <prism:volume>3</prism:volume>
+        <dc:title>Current Robotics Reports</dc:title>
+        <dc:identifier>DOI 10.1007/s43154-022-00087-4</dc:identifier>
+        <prism:number>4</prism:number>
+        <dcterms:alternative>Curr Robot Rep</dcterms:alternative>
+        <dc:identifier>ISSN 2662-4087</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_142">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/content/pdf/10.1007%2Fs43154-022-00087-4.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-11-23 08:21:13</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://arxiv.org/html/2403.10874v1">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_144"/>
+        <dc:title>Robotic Task Success Evaluation Under Multi-modal Non-Parametric Object Pose Uncertainty</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/html/2403.10874v1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-11-23 08:21:51</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_144">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Robotic Task Success Evaluation Under Multi-modal Non-Parametric Object Pose Uncertainty</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/html/2403.10874v1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-11-23 08:21:56</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.researchgate.net/publication/260623645_A_Hand-Centric_Classification_of_Human_and_Robot_Dexterous_Manipulation">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>ResearchGate</dc:title>
+                <dc:identifier>DOI 10.1109/TOH.2012.53</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_146"/>
+        <dc:title>(PDF) A Hand-Centric Classification of Human and Robot Dexterous Manipulation</dc:title>
+        <dcterms:abstract>PDF | This work contributes to the development of a common framework for the discussion and analysis of dexterous manipulation across the human and... | Find, read and cite all the research you need on ResearchGate</dcterms:abstract>
+        <dc:date>2024-10-22</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>www.researchgate.net</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/publication/260623645_A_Hand-Centric_Classification_of_Human_and_Robot_Dexterous_Manipulation</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-11-23 08:24:25</dcterms:dateSubmitted>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_146">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/publication/260623645_A_Hand-Centric_Classification_of_Human_and_Robot_Dexterous_Manipulation</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-11-23 08:24:31</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="http://arxiv.org/abs/2103.01555">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>arXiv</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lastrico</foaf:surname>
+                        <foaf:givenName>Linda</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Carfì</foaf:surname>
+                        <foaf:givenName>Alessandro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vignolo</foaf:surname>
+                        <foaf:givenName>Alessia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sciutti</foaf:surname>
+                        <foaf:givenName>Alessandra</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mastrogiovanni</foaf:surname>
+                        <foaf:givenName>Fulvio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rea</foaf:surname>
+                        <foaf:givenName>Francesco</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_148"/>
+        <link:link rdf:resource="#item_149"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Machine Learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Robotics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Careful with That! Observation of Human Movements to Estimate Objects Properties</dc:title>
+        <dcterms:abstract>Humans are very effective at interpreting subtle properties of the partner's movement and use this skill to promote smooth interactions. Therefore, robotic platforms that support human partners in daily activities should acquire similar abilities. In this work we focused on the features of human motor actions that communicate insights on the weight of an object and the carefulness required in its manipulation. Our final goal is to enable a robot to autonomously infer the degree of care required in object handling and to discriminate whether the item is light or heavy, just by observing a human manipulation. This preliminary study represents a promising step towards the implementation of those abilities on a robot observing the scene with its camera. Indeed, we succeeded in demonstrating that it is possible to reliably deduct if the human operator is careful when handling an object, through machine learning algorithms relying on the stream of visual acquisition from either a robot camera or from a motion capture system. On the other hand, we observed that the same approach is inadequate to discriminate between light and heavy objects.</dcterms:abstract>
+        <dc:date>2021-03-10</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2103.01555</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-11-23 08:25:52</dcterms:dateSubmitted>
+        <dc:description>arXiv:2103.01555</dc:description>
+        <dc:identifier>DOI 10.48550/arXiv.2103.01555</dc:identifier>
+        <prism:number>arXiv:2103.01555</prism:number>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_148">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Preprint PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/pdf/2103.01555v2</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-11-23 08:25:53</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_149">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2103.01555</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-11-23 08:25:58</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://dl.acm.org/doi/abs/10.1049/ccs2.12073">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_151"/>
+        <dc:title>Review on human‐like robot manipulation using dexterous hands | Cognitive Computation and Systems</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dl.acm.org/doi/abs/10.1049/ccs2.12073</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-11-23 08:26:25</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_151">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Review on human‐like robot manipulation using dexterous hands | Cognitive Computation and Systems</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dl.acm.org/doi/abs/10.1049/ccs2.12073</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-11-23 08:26:34</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.academia.edu/33791022/Industrial_Robot_Classification_and_Applications">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Αζάρ</foaf:surname>
+                        <foaf:givenName>Χρήστος</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_153"/>
+        <dc:title>Industrial Robot Classification and Applications</dc:title>
+        <dcterms:abstract>Industrial Robot Classification and Applications</dcterms:abstract>
+        <z:libraryCatalog>www.academia.edu</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.academia.edu/33791022/Industrial_Robot_Classification_and_Applications</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-11-23 08:29:35</dcterms:dateSubmitted>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_153">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.academia.edu/33791022/Industrial_Robot_Classification_and_Applications</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-11-23 08:29:41</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1007/s12369-020-00666-5">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1875-4805"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Onnasch</foaf:surname>
+                        <foaf:givenName>Linda</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Roesler</foaf:surname>
+                        <foaf:givenName>Eileen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_155"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Collaboration</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Collaborative robots</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>HRI framework</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Human–robot interaction</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Robot morphology</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Taxonomy</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>A Taxonomy to Structure and Analyze Human–Robot Interaction</dc:title>
+        <dcterms:abstract>Robotic systems are one of the core technologies that will shape our future. Robots already change our private and professional life by working together with humans in various domains. Evoked by this increasing trend, great variability exists in terms of robots and interaction scenarios. This has boosted research regarding shaping factors of human–robot interaction (HRI). Nevertheless, this variety hinders the comparability and the generalizability of insights. What is needed for efficient research is a structured approach that allows the analysis of superordinate attributes, making previous HRI research comparable, revealing research gaps and thus guiding future research activities. Based on the review of previous HRI frameworks we developed a new HRI taxonomy that (1) takes into account the human, the robot, the interaction and the context of the HRI, (2) is applicable to various HRI scenarios and (3) provides predefined categories to enable structured comparisons of different HRI scenarios. A graphical representation of the taxonomy, including all possible classifications, eases the application to specific HRI scenarios. To demonstrate the use and value of this taxonomy, it is applied to different studies in HRI in order to identify possible reasons for contrasting results. The exemplified applications of the taxonomy underline its value as a basis for reviews and meta-analyses. Moreover, the taxonomy offers a framework for future HRI research as it offers guidance for systematic variations of distinctive variables in HRI.</dcterms:abstract>
+        <dc:date>2021-07-01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Springer Link</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1007/s12369-020-00666-5</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-11-23 08:30:18</dcterms:dateSubmitted>
+        <bib:pages>833-849</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1875-4805">
+        <prism:volume>13</prism:volume>
+        <dc:title>International Journal of Social Robotics</dc:title>
+        <dc:identifier>DOI 10.1007/s12369-020-00666-5</dc:identifier>
+        <prism:number>4</prism:number>
+        <dcterms:alternative>Int J of Soc Robotics</dcterms:alternative>
+        <dc:identifier>ISSN 1875-4805</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_155">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/content/pdf/10.1007%2Fs12369-020-00666-5.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-11-23 08:30:19</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="http://arxiv.org/abs/2110.00534">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>arXiv</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Padmakumar</foaf:surname>
+                        <foaf:givenName>Aishwarya</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Thomason</foaf:surname>
+                        <foaf:givenName>Jesse</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shrivastava</foaf:surname>
+                        <foaf:givenName>Ayush</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lange</foaf:surname>
+                        <foaf:givenName>Patrick</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Narayan-Chen</foaf:surname>
+                        <foaf:givenName>Anjali</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gella</foaf:surname>
+                        <foaf:givenName>Spandana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Piramuthu</foaf:surname>
+                        <foaf:givenName>Robinson</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tur</foaf:surname>
+                        <foaf:givenName>Gokhan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hakkani-Tur</foaf:surname>
+                        <foaf:givenName>Dilek</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_157"/>
+        <link:link rdf:resource="#item_158"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Computation and Language</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Computer Science - Computer Vision and Pattern Recognition</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Robotics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>TEACh: Task-driven Embodied Agents that Chat</dc:title>
+        <dcterms:abstract>Robots operating in human spaces must be able to engage in natural language interaction with people, both understanding and executing instructions, and using conversation to resolve ambiguity and recover from mistakes. To study this, we introduce TEACh, a dataset of over 3,000 human--human, interactive dialogues to complete household tasks in simulation. A Commander with access to oracle information about a task communicates in natural language with a Follower. The Follower navigates through and interacts with the environment to complete tasks varying in complexity from &quot;Make Coffee&quot; to &quot;Prepare Breakfast&quot;, asking questions and getting additional information from the Commander. We propose three benchmarks using TEACh to study embodied intelligence challenges, and we evaluate initial models' abilities in dialogue understanding, language grounding, and task execution.</dcterms:abstract>
+        <dc:date>2021-12-29</dc:date>
+        <z:shortTitle>TEACh</z:shortTitle>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2110.00534</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-11-23 08:36:39</dcterms:dateSubmitted>
+        <dc:description>arXiv:2110.00534</dc:description>
+        <dc:identifier>DOI 10.48550/arXiv.2110.00534</dc:identifier>
+        <prism:number>arXiv:2110.00534</prism:number>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_157">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Preprint PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/pdf/2110.00534v3</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-11-23 08:36:41</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_158">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2110.00534</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-11-23 08:36:45</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+</rdf:RDF>
