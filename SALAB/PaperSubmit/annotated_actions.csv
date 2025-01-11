@@ -1,0 +1,37 @@
+action_id,action_name,action_type,pose_delta,start_x,start_y,end_x,end_y,x,y,query,utterance,file_name,repeat,features
+0,Stop,Motion,"[0, 0, 0, 0, 0, 0]",,,,,,,,,,,dexterous
+1,Move to,Motion,[],,,,,,,,,,,dexterous
+2,Forward,Motion,"[0.25, 0, 0, 0, 0, 0]",,,,,,,,,,,dexterous
+3,Backward,Motion,"[-0.25, 0, 0, 0, 0, 0]",,,,,,,,,,,dexterous
+4,Turn Left,Motion,"[0, 0, 0, 0, 0, 90]",,,,,,,,,,,dexterous
+5,Turn Right,Motion,"[0, 0, 0, 0, 0, -90]",,,,,,,,,,,dexterous
+6,Look Up,Motion,"[0, 0, 0, 0, -30, 0]",,,,,,,,,,,dexterous
+7,Look Down,Motion,"[0, 0, 0, 0, 30, 0]",,,,,,,,,,,dexterous
+8,Pan Left,Motion,"[0, 0.25, 0, 0, 0, 0]",,,,,,,,,,,dexterous
+9,Pan Right,Motion,"[0, -0.25, 0, 0, 0, 0]",,,,,,,,,,,dexterous
+10,Move Up,Motion,"[0, 0, 0.25, 0, 0, 0]",,,,,,,,,,,dexterous
+11,Move Down,Motion,"[0, 0, -0.25, 0, 0, 0]",,,,,,,,,,,dexterous
+12,Double Forward,Motion,"[0.5, 0, 0, 0, 0, 0]",,,,,,,,,,,heavy
+13,Double Backward,Motion,"[-0.5, 0, 0, 0, 0, 0]",,,,,,,,,,,heavy
+300,Navigation,MapGoal,,-1.0,-1.0,-1.0,-1.0,,,,,,,"heavy, careful"
+200,Pickup,ObjectInteraction,,,,,,-1.0,-1.0,,,,,"heavy, careful"
+201,Place,ObjectInteraction,,,,,,-1.0,-1.0,,,,,"heavy, careful"
+202,Open,ObjectInteraction,,,,,,-1.0,-1.0,,,,,
+203,Close,ObjectInteraction,,,,,,-1.0,-1.0,,,,,
+204,ToggleOn,ObjectInteraction,,,,,,-1.0,-1.0,,,,,dexterous
+205,ToggleOff,ObjectInteraction,,,,,,-1.0,-1.0,,,,,dexterous
+206,Slice,ObjectInteraction,,,,,,-1.0,-1.0,,,,,"dexterous, careful"
+207,Dirty,ObjectInteraction,,,,,,-1.0,-1.0,,,,,careful
+208,Clean,ObjectInteraction,,,,,,-1.0,-1.0,,,,,"dexterous, careful"
+209,Fill,ObjectInteraction,,,,,,-1.0,-1.0,,,,,"dexterous, careful"
+210,Empty,ObjectInteraction,,,,,,-1.0,-1.0,,,,,"dexterous, careful"
+211,Pour,ObjectInteraction,,,,,,-1.0,-1.0,,,,,careful
+212,Break,ObjectInteraction,,,,,,-1.0,-1.0,,,,,"dexterous, careful"
+400,BehindAboveOn,ChangeCamera,,,,,,,,,,,,dexterous
+401,BehindAboveOff,ChangeCamera,,,,,,,,,,,,dexterous
+500,OpenProgressCheck,ProgressCheck,,,,,,,,,,,,dexterous
+501,SelectOid,ProgressCheck,,,,,,,,,,,,dexterous
+502,SearchObject,ProgressCheck,,,,,,,,,,,,dexterous
+100,Text,Keyboard,,,,,,,,,,,,dexterous
+101,Speech,Audio,,,,,,,,,,,,dexterous
+102,Beep,Audio,,,,,,,,,,,3.0,dexterous

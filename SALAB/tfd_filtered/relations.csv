@@ -1,0 +1,2 @@
+property,tail_entity_list,tail_determiner_list,head_entity_list,head_determiner_list,failure_desc
+parentReceptacles,['serving_spot'],['a'],"['coffee', 'toast', 'potatoes', 'apple', 'sandwich', 'salad']","['1', '0', '0', '0', '1', '0']",All breakfast items need to be on the DiningTable.

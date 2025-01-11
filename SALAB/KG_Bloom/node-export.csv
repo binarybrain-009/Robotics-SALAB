@@ -1,0 +1,23 @@
+"~id","~labels","agent_type","id","layer","action_name","object_name","utterance"
+"0","Agent","Commander","Agent_0","Knowledge_Level",,,
+"2","Agent","Commander","Agent_0","Knowledge_Level",,,
+"4","Action",,"Action_1","Action_Level","Pickup",,
+"5","Action",,"Action_2","Action_Level","Forward",,
+"9","Action",,"Action_1","Action_Level","Move",,
+"10","Action",,"Action_2","Action_Level","Rotate",,
+"13","Object",,"Object_1","Object_Level",,"Mug",
+"14","Object",,"Object_1","Object_Level",,"Mug",
+"15","Object",,"Object_2","Object_Level",,"Bowl",
+"29","Dialogue",,"Dialogue_1","Dialogue_Level",,,"Good day! We are preparing breakfast. We first need to wash a dirty mug."
+"30","Dialogue",,"Dialogue_1","Dialogue_Level",,,"Good day! We are preparing breakfast. We first need to wash a dirty mug."
+"31","Agent","Commander","Agent_0","Knowledge_Level",,,
+"33","Agent","Commander","Agent_0","Knowledge_Level",,,
+"35","Action",,"Action_1","Action_Level","Pickup",,
+"36","Action",,"Action_2","Action_Level","Forward",,
+"40","Action",,"Action_1","Action_Level","Move",,
+"41","Action",,"Action_2","Action_Level","Rotate",,
+"44","Object",,"Object_1","Object_Level",,"Mug",
+"45","Object",,"Object_1","Object_Level",,"Mug",
+"46","Object",,"Object_2","Object_Level",,"Bowl",
+"60","Dialogue",,"Dialogue_1","Dialogue_Level",,,"Good day! We are preparing breakfast. We first need to wash a dirty mug."
+"61","Dialogue",,"Dialogue_1","Dialogue_Level",,,"Good day! We are preparing breakfast. We first need to wash a dirty mug."
